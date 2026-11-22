@@ -25,4 +25,4 @@ saidur-github-profile/
 
 `.github/workflows/snake.yml` runs on schedule (`0 0 * * *`), on push to `main`, and via manual `workflow_dispatch` using `GITHUB_TOKEN` with `contents: write` permission.
 
-Once the `output` branch contains `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`, uncomment the `<!-- Contribution Snake -->` `<picture>` block in `README.md`.
+The workflow generates `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg` on the `output` branch, which are embedded via `<picture>` inside `README.md`.

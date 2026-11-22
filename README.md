@@ -213,8 +213,8 @@ My day-to-day work centers on turning product requirements into responsive, main
   </picture>
 </div>
 
-<!-- Contribution Snake: Uncomment after .github/workflows/snake.yml finishes generating the `output` branch SVGs.
 <br />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saidur1004/saidur1004/output/github-contribution-grid-snake-dark.svg" />
@@ -222,7 +222,6 @@ My day-to-day work centers on turning product requirements into responsive, main
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saidur1004/saidur1004/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
--->
 
 ---
 
