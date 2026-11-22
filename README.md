@@ -184,8 +184,7 @@ Alongside mobile development, I hold practical working knowledge of **Django** a
     <img src="https://skillicons.dev/icons?i=flutter%2Cpy%2Cdart%2Cdjango%2Cfirebase%2Csqlite%2Chtml%2Ccss%2Cjs%2Cbootstrap%2Ckotlin%2Cjava%2Cgo%2Cc%2Cgit%2Cgithub%2Cpostman%2Candroidstudio%2Cvscode&perline=10&theme=light" alt="Core technologies and development tools" />
   </picture>
   <br /><br />
-  <img src="https://img.shields.io/badge/Google_Play_Store-172033?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play Store" />
-  <img src="https://img.shields.io/badge/Apple_App_Store-52749A?style=flat-square&logo=appstore&logoColor=white" alt="Apple App Store" />
+
 </div>
 
 <br />
